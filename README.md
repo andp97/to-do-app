@@ -1,7 +1,7 @@
 # TO-DO App
 My First PHP App
 
-Simple PHP for first time approch on PHP and Web Development
+Simple PHP for first time approach on PHP and Web Development
 
 Enjoy!
 
